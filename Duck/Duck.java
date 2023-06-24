@@ -3,4 +3,5 @@ abstract class Duck{
 	abstract void display();
 	// Другие общие методы
 	// Test comment
+	// Comment from HP530 LinuxMint
 }
